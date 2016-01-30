@@ -1,2 +1,2 @@
-Скрипт для Wordpress.
-Исправляет блоки SyntaxHighlighter после импорта.
+Скрипт для Wordpress.<BR>
+Исправляет блоки SyntaxHighlighter после импорта. <BR>
